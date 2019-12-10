@@ -1,0 +1,16 @@
+/**
+ * 
+ * @author Miguel
+ * @version 1.0
+ * 
+ */
+public class Menu {
+	
+	/**
+	 * Método que pinta un menú en pantalla
+	 */
+	public static void pintaMenu() {
+		System.out.println("------Menú------");
+		System.out.println("1- Ver contactos");
+	}
+}
